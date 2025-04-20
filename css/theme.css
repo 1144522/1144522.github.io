@@ -49,3 +49,25 @@ body {
 .author a {
     color: #ee4444;
 }
+body {
+  background-color: #000000;
+  color: #ff0033;
+  font-family: 'Orbitron', sans-serif; /* 推荐赛博字体 */
+}
+
+a {
+  color: #ff0066;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00ffff;
+  text-shadow: 0 0 5px #ff00cc;
+}
+
+header, footer {
+  background-color: #111;
+  border-top: 2px solid #ff0033;
+  border-bottom: 2px solid #ff0033;
+  padding: 1em;
+}
