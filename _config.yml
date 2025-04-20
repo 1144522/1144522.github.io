@@ -39,6 +39,4 @@ gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']
 
-remote_theme: https://github.com/ziinahzoor/cybersynth-theme
-plugins:
-- jekyll-remote-theme
+
